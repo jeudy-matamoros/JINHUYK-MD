@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/KangJinhuyk">
-    <img alt="Jinhuyk bot logo" height="400" src="https://files.catbox.moe/59iafh.jpg">
+    <img alt="Jinhuyk bot logo" height="400" src="https://files.catbox.moe/ys8210.jpg">
   </a>
 </p>
 
@@ -79,8 +79,8 @@ _Termux Setup not recommended_
     <td>Ashaf barry sasaki</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KangJinhuyk"><img src="https://i.imgur.com/xvYDAsD.jpeg" width="180"</td>
-    <td><a href="https://github.com/BarryAllen100"><img src="https://i.imgur.com/TAGPcMC.jpeg" width="180"</td>
+    <td><a href="https://github.com/KangJinhuyk"><img src="https://i.imgur.com/EMOA4nY.jpeg" width="180"</td>
+    <td><a href="https://github.com/gonfreecss297"><img src="https://i.imgur.com/ehiCeyA.jpeg" width="180"</td>
   </tr>
 </table>
 
